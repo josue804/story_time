@@ -1,0 +1,20 @@
+Is the Github documentation - commits and README - thorough and descriptive?
+  Needs a README. Commits are accurate but encompass too many changes.
+Do all specs pass?
+  4/6 passing specs.
+Is there good spec coverage?
+  Unit testing looks okay. You have no integration specs which is absolutely unacceptable, scrub, get good.
+Is the application logic clear and easy to navigate?
+  As clear as ryan h's backend whistle.
+Is the site user-friendly?
+  Pepe-gnarly. Seriously great site. Very intuitive.
+Are there opportunities for refactoring?
+  Code looks very clean, not much room for refactoring.
+What features stand out?
+  The ability for a user to check out their post history is pretty sweet.
+What features could be improved?
+  When a new story is created, it would be nice if the page redirected the user to add the first sentence to the story.
+  The form to add a new sentence to the story could also be appended to the same page using an ajax call.
+  It would be better to store pictures in their own model instead of locally, if the project ever went global.
+Do you have any additional constructive criticism or positive feedback to share?
+  Nice job!
